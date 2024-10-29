@@ -1,9 +1,11 @@
 # Introduction to AI-driven Science on Supercomputers: A Student Training Series
-## 2022 Fall Series
+## 2024 Spring Series
 
 [Public Page for Series Schedule](https://www.alcf.anl.gov/alcf-ai-science-training-series)
 
-[Agenda with content links](https://events.cels.anl.gov/event/337/timetable/)
+[ALCF YouTube with recordings of sessions](https://www.youtube.com/@argonneleadershipcomputing8396)
+
+[Indico registration page (CLOSED)](https://events.cels.anl.gov/event/436)
 
 This repository is organized into one subdirectory per topic.  All content is prefixed by a two-digit index in the order of presentation in the tutorials.
 
@@ -20,19 +22,21 @@ This repository is organized into one subdirectory per topic.  All content is pr
       <li> <a href="./00_introToAlcf/11_howToSetupEnvironment.md">How to Setup a Shell Enviroment</a></li>
       <li> <a href="./00_introToAlcf/12_jobQueuesSubmission.md">Submitting Jobs to a Queue</a></li>
     </ol>
-    <li> <a href="./01_machineLearning">Introduction to Machine Learning  </a> </li>
+    <li> <a href="./01_intro_AI_on_Supercomputer">Introduction to AI on Supercomputer </a> </li>
     <ol> 
-       <li> <a href="./01_machineLearning/01_linear_regression_sgd.ipynb"> Introduction to Machine Learning with Linear Regression </a></li>
-       <li> <a href="./01_machineLearning/02_clustering.ipynb">Introduction to Machine Learning with k-means Clustering</a></li>
+       <li> <a href="./01_intro_AI_on_Supercomputer/evolution.md"> History of computing </a></li>
+       <li> <a href="./01_intro_AI_on_Supercomputer/parallel_computing.md"> Parallel Computing </a></li>
+       <li> <a href="./01_intro_AI_on_Supercomputer/01_linear_regression_sgd.ipynb"> Artificial Intelligence in a nutshell </a></li>
     </ol>
-    <li> <a href="./02_neural_networks_python"> Neural Networks in Python </a></li>
-    <li> <a href="./03_neural_networks_tensorflow"> Neural Networks in TensorFlow </a></li> 
-    <li> <a href="./04_modern_neural_networks"> Modern Classification Networks </a></li> 	
-    <li> <a href="./05_dataPipelines/">Handling Data During AI Training </a></li> 
-    <li> <a href="./06_distributedTraining/">Supercomputers and Parallel AI Training</a></li> 	
-    <li> <a href="./07_TBD/">Running Large Scale Training on a Supercomputer</a></li> 
-    <li> <a href="./08_TBD/">Other AI Learning Methods</a></li> 	
-  </ol>
+    <li> <a href="./02_intro_neural_networks"> Introduction to Neural Networks </a></li>
+    <li> <a href="./03_advanced_neural_networks"> Advanced Topics in Neural Networks </a></li> 
+    <li> <a href="./04_intro_to_llms"> Introduction to LLMs </a></li> 
+    <li> <a href="./05_llm_part2"> LLMs -- Part II </a></li> 
+    <li> <a href="./06_parallel_training"> Parallel Training Techniques</a></li> 
+    <ol> 
+      <li> <a href="https://saforem2.github.io/parallel-training-slides/#/">📊 Slides</a></li></ol>
+    <li> <a href="./07_AITestbeds/"> AI Testbeds</a></li> 
+    
 </details>
 
 
